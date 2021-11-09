@@ -9,4 +9,4 @@
 ---
 
 ### 💬 Ask me about ...
-- 👶  Junior Game Developer
+- 👶 Game Developer

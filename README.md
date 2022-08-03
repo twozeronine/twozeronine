@@ -11,4 +11,4 @@
 ---
 
 ### 💬 Ask me about ...
-- 👶 Game Developer
+- 😡 Never Game Developer
